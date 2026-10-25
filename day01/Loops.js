@@ -18,3 +18,15 @@ for(let k = 1; k<= 10; k++) {
     }
     console.log(k);
 }
+console.log("-----------------------------")
+
+for(let s = 1; s <= 5; s++) {
+    console.log(s)
+}
+
+console.log("-----------------------------")
+
+let cityNames = ["MK", "London", "Manchester", "Nottingham"];
+for(let each of cityNames) {
+    console.log(each);
+}

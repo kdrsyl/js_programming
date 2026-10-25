@@ -66,7 +66,7 @@ console.log("Total Price: " + item1.calcPrice());
 
 
 let item2 = new Item("Mobile", 500, 25);
-console.log(`The name of the item is ${item2.name}}`);
+console.log(`The name of the item is ${item2.name}`);
 console.log(`The unit price is $${item2.price} per unit`);
 console.log(`The quantity is ${item2.quantity}`);
 console.log(`The total price for ${item2.quantity} units is $${item2.calcPrice()}`);

@@ -25,3 +25,6 @@ function addNumbers(num1, num2) {
 
 let result = addNumbers(5, 6);
 console.log(result);
+
+// examples
+
